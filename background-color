@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Background Color</title>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+
+        h1 {
+            background-color: navy;
+            color: white;
+            text-align: center;
+        }
+
+        p {
+            background-color: yellow;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Background Color Example</h1>
+
+    <p>This paragraph has a yellow background.</p>
+
+</body>
+</html>
+
+OUTPUT:
+------------------------------------------------
+|          Background Color Example            |
+------------------------------------------------
+
+This paragraph has a yellow background.
